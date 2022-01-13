@@ -14,8 +14,8 @@
     "list": []
   },
   "contacts": {
-    "title": "Contatos",
-    "phone_wpp": true,
+    "title": "Contactos",
+    "phone_wpp": false,
     "socials": true,
     "email": true,
     "address": true
@@ -27,7 +27,7 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": true,
     "aura": false,
@@ -35,9 +35,10 @@
     "elo": true,
     "hipercard": false,
     "hsbc": false,
-    "bradesco": true,
-    "santander": false,
+    "bradesco": false,
+    "santander": true,
     "mastercard": true,
+    "paypal": true,
     "citibank": false,
     "mais": false,
     "itau": true
