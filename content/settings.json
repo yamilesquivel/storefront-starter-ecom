@@ -4,9 +4,9 @@
   "primary_color": "#222831",
   "theme": {
     "bootswatch": "cosmo",
-    "custom": "niche-game"
+    "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#6a1a63",
   "repository": "",
   "logo": "/img/uploads/logo.png",
   "name": "Ventinet Tienda",
